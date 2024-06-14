@@ -22,7 +22,7 @@ This is a simple task list application built with React, Vite.js, Redux, and Red
 <br/>
 
 ## Demo
-Check out the live demo of the application [here](https://google.com).
+Check out the live demo of the application [here](https://redux-saga-async.netlify.app/).
 <br/>
 
 ## Installation
